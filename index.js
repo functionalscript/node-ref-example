@@ -1,4 +1,5 @@
-module.exports = async () => ({ 
+const c = require('node-example')
+module.exports = { 
     b: 'Привет, мир!', 
-    c: await require('node-example') 
-})
+    c
+}

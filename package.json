@@ -19,5 +19,8 @@
   "homepage": "https://github.com/functionalscript/node-ref-example#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "node-example": "github:functionalscript/node-example"
   }
 }

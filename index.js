@@ -1,4 +1,4 @@
 module.exports = async () => ({ 
-    b: 'Привет!', 
+    b: 'Привет, мир!', 
     c: await require('node-example') 
 })

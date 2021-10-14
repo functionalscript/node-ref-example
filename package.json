@@ -1,0 +1,23 @@
+{
+  "name": "ref-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/functionalscript/node-ref-example.git"
+  },
+  "author": "Natfoam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/functionalscript/node-ref-example/issues"
+  },
+  "homepage": "https://github.com/functionalscript/node-ref-example#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}

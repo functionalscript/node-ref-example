@@ -1,4 +1,4 @@
-const c = require('node-example')
+const c = require('ne')
 module.exports = { 
     b: 'Привет, мир!', 
     c,

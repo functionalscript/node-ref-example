@@ -1,6 +1,5 @@
 const c = require('ne')
-module.exports = { 
-    b: 'Привет, мир!', 
-    c,
-    d: 123 + 97,
+module.exports = {
+    "node-example": c,
+    "result": c["multiply"](1)(2),
 }

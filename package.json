@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/functionalscript/node-ref-example#readme",
   "devDependencies": {
-    "typescript": "^4.4.4"
+    "typescript": "^4.5.2"
   },
   "dependencies": {
-    "node-example": "github:functionalscript/node-example"
+    "node-example": "github:functionalscript/node-example#bee40e5ad23182fb186da5781c27943b8d4bf8f4"
   }
 }
